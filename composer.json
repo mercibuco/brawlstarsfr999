@@ -1,0 +1,24 @@
+{
+    "name": "brawl-stars-triche-et/astuces-gemmes-gratuit-illimites-android-ios",
+    "type": "library",
+    "description": "Générateur Gemmes En ligne sur Brawl Stars pour Android et iOS 2019 - Gemmes illimités,",
+    "keywords": ["Gemmes gratuit Brawl Stars","Gemmes illimités Brawl Stars","comment avoir des Gemmes sur Brawl Stars"],
+    "homepage": "https://todayinfos.us/brawlstarsfr/?pack",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Comment Avoir Des Gemmes en Brawl Stars illimités Gratuit Android et iOS [Générateur Gemmes illimités en Brawl Stars] 2019 CLIQUEZ ICI POUR GENERER EN LIGNE",
+            "website": "https://todayinfos.us/brawlstarsfr/?pack",
+            "homepage": "https://todayinfos.us/brawlstarsfr/?pack",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Monolog": "src"
+        }
+    }
+}
